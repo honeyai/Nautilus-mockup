@@ -1,0 +1,12 @@
+.landingCatalyst{
+  font-family: "freight";
+  font-weight: 900;
+  font-size: 5vw;
+  color: #ffffff;
+  margin: 0;
+}
+
+@font-face{
+  font-family: "freight";
+  src: url(../assets/fonts/Freight\ Big\ Black\ Italic/Freight\ Big\ Black\ Italic.otf)
+}

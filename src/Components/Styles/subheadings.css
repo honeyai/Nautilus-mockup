@@ -1,0 +1,29 @@
+.issue{
+  margin: 0;
+  font-family: "freight-sans";
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.tagLine{
+  margin: 0;
+  font-family: 'Crimson Text', serif;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.more{
+  /* margin: 0; */
+  font-family: "freight-sans";
+  font-weight: 900;
+  font-size: 1.3vh;
+  text-transform: uppercase;
+  text-decoration: underline dotted;
+  color: #ffffff;
+}
+
+@font-face{
+  font-family: "freight-sans";
+  src: url("../assets/fonts/FreightSansProMedium-Regular.ttf")
+}

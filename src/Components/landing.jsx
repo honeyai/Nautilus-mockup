@@ -1,11 +1,11 @@
 import React from 'react';
-
-const landing = () => {
+import './Styles/landing.css'
+const Landing = () => {
   return (
     <div>
-      <img src="/>
+      <div className="theLanding"/>
     </div>
   );
 };
 
-export default landing;
+export default Landing;

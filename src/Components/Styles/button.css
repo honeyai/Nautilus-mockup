@@ -1,0 +1,58 @@
+.landingButton {
+  background-color: black;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  color: #ffffff;
+  width: 8vw;
+  height: 2.5vw;
+
+  font-family: "freight-sans";
+  font-weight: 500;
+  font-size: 0.9vw;
+  text-transform: uppercase;
+  margin-bottom: 25vh;
+}
+
+.scrollDown{
+  /* border: blue solid; */
+  border: none;
+  outline: none;
+  cursor: pointer;
+  width: 17vw;
+  height: 8vh;
+  margin-bottom: 15git avh;
+  /* margin-bottom: 0; */
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+  background-color: transparent;
+}
+
+.buttonContent{
+  /* border: red solid; */
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.buttonImage{
+  /* border: slateblue solid; */
+  width: 3.8vw;
+  height: 4vh;
+  background-image: url("../assets/global/curtain-down.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+
+.buttonText {
+  /* border: solid; */
+  font-family: "freight-sans";
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #ffffff;
+}

@@ -8,10 +8,9 @@
   background-size: 100vw auto;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
 }
 
 .textContainer{
-  border: solid;
-  height: 20vh;
+  margin-top: 50vh;
 }

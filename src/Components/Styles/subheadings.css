@@ -9,15 +9,16 @@
 .tagLine{
   margin: 0;
   font-family: 'Crimson Text', serif;
-  font-weight: 500;
+  font-size: 1.3vw;
   color: #ffffff;
 }
 
 .more{
-  /* margin: 0; */
+  margin-top: 0.5%;
+  margin-bottom: 2%;
   font-family: "freight-sans";
-  font-weight: 900;
-  font-size: 1.3vh;
+  font-weight: 600;
+  font-size: 0.9vw;
   text-transform: uppercase;
   text-decoration: underline dotted;
   color: #ffffff;

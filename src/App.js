@@ -6,9 +6,7 @@ function App() {
   return (
     <div className="App">
       {/* REMEMBER NOT TO PUSH APP.JS */}
-      <Landing>
-        
-      </Landing>
+      <Landing/>
     </div>
   );
 }
